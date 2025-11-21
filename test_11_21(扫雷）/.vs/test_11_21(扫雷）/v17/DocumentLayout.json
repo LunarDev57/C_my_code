@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\my_game\\test_11_21(\u626B\u96F7\uFF09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E793B78-F0E0-42E0-BBA9-79E8870FAADF}|test_11_21(\u626B\u96F7\uFF09\\test_11_21(\u626B\u96F7\uFF09.vcxproj|D:\\my_game\\test_11_21(\u626B\u96F7\uFF09\\test_11_21(\u626B\u96F7\uFF09\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E793B78-F0E0-42E0-BBA9-79E8870FAADF}|test_11_21(\u626B\u96F7\uFF09\\test_11_21(\u626B\u96F7\uFF09.vcxproj|solutionrelative:test_11_21(\u626B\u96F7\uFF09\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E793B78-F0E0-42E0-BBA9-79E8870FAADF}|test_11_21(\u626B\u96F7\uFF09\\test_11_21(\u626B\u96F7\uFF09.vcxproj|D:\\my_game\\test_11_21(\u626B\u96F7\uFF09\\test_11_21(\u626B\u96F7\uFF09\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E793B78-F0E0-42E0-BBA9-79E8870FAADF}|test_11_21(\u626B\u96F7\uFF09\\test_11_21(\u626B\u96F7\uFF09.vcxproj|solutionrelative:test_11_21(\u626B\u96F7\uFF09\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E793B78-F0E0-42E0-BBA9-79E8870FAADF}|test_11_21(\u626B\u96F7\uFF09\\test_11_21(\u626B\u96F7\uFF09.vcxproj|D:\\my_game\\test_11_21(\u626B\u96F7\uFF09\\test_11_21(\u626B\u96F7\uFF09\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E793B78-F0E0-42E0-BBA9-79E8870FAADF}|test_11_21(\u626B\u96F7\uFF09\\test_11_21(\u626B\u96F7\uFF09.vcxproj|solutionrelative:test_11_21(\u626B\u96F7\uFF09\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.h",
+              "DocumentMoniker": "D:\\my_game\\test_11_21(\u626B\u96F7\uFF09\\test_11_21(\u626B\u96F7\uFF09\\game.h",
+              "RelativeDocumentMoniker": "test_11_21(\u626B\u96F7\uFF09\\game.h",
+              "ToolTip": "D:\\my_game\\test_11_21(\u626B\u96F7\uFF09\\test_11_21(\u626B\u96F7\uFF09\\game.h",
+              "RelativeToolTip": "test_11_21(\u626B\u96F7\uFF09\\game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-21T11:50:34.287Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.c",
+              "DocumentMoniker": "D:\\my_game\\test_11_21(\u626B\u96F7\uFF09\\test_11_21(\u626B\u96F7\uFF09\\game.c",
+              "RelativeDocumentMoniker": "test_11_21(\u626B\u96F7\uFF09\\game.c",
+              "ToolTip": "D:\\my_game\\test_11_21(\u626B\u96F7\uFF09\\test_11_21(\u626B\u96F7\uFF09\\game.c",
+              "RelativeToolTip": "test_11_21(\u626B\u96F7\uFF09\\game.c",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-21T11:50:04.853Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\my_game\\test_11_21(\u626B\u96F7\uFF09\\test_11_21(\u626B\u96F7\uFF09\\test.c",
+              "RelativeDocumentMoniker": "test_11_21(\u626B\u96F7\uFF09\\test.c",
+              "ToolTip": "D:\\my_game\\test_11_21(\u626B\u96F7\uFF09\\test_11_21(\u626B\u96F7\uFF09\\test.c",
+              "RelativeToolTip": "test_11_21(\u626B\u96F7\uFF09\\test.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-21T11:49:50.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

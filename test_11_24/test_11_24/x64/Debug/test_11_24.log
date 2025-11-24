@@ -1,0 +1,4 @@
+﻿  test.c
+D:\my_code\2025\2025_11\test_11_24\test_11_24\test.c(160,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\my_code\2025\2025_11\test_11_24\test_11_24\test.c(166,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  test_11_24.vcxproj -> D:\my_code\2025\2025_11\test_11_24\x64\Debug\test_11_24.exe

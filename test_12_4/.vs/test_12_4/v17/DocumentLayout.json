@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\my_code\\2025\\2025_12\\test_12_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F9F9FD-13A0-4FAB-863C-AF7E8355559D}|test_12_4\\test_12_4.vcxproj|D:\\my_code\\2025\\2025_12\\test_12_4\\test_12_4\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3F9F9FD-13A0-4FAB-863C-AF7E8355559D}|test_12_4\\test_12_4.vcxproj|solutionrelative:test_12_4\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\my_code\\2025\\2025_12\\test_12_4\\test_12_4\\test.c",
+              "RelativeDocumentMoniker": "test_12_4\\test.c",
+              "ToolTip": "D:\\my_code\\2025\\2025_12\\test_12_4\\test_12_4\\test.c",
+              "RelativeToolTip": "test_12_4\\test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-04T13:27:36.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

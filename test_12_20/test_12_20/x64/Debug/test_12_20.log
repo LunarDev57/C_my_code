@@ -1,0 +1,8 @@
+﻿  contact.c
+D:\my_code\2025\2025_12\test_12_20\test_12_20\contact.c(18,15): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\my_code\2025\2025_12\test_12_20\test_12_20\contact.c(150,33): warning C4028: 形参 1 与声明不一致
+D:\my_code\2025\2025_12\test_12_20\test_12_20\contact.c(180,9): warning C4477: “printf”: 格式字符串“%-5d”需要类型“int”的参数，但可变参数 2 拥有了类型“char *”
+D:\my_code\2025\2025_12\test_12_20\test_12_20\contact.c(180,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "char *" 的参数 2 冲突
+  test.c
+  正在生成代码...
+  test_12_20.vcxproj -> D:\my_code\2025\2025_12\test_12_20\x64\Debug\test_12_20.exe
